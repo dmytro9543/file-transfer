@@ -1,3 +1,3 @@
 # file-transfer
-./ftpserver <port> <path>
-./ftpclient <hostname> <port> <path>
+`./ftpserver <port> <path>`</br>
+`./ftpclient <hostname> <port> <path>`
